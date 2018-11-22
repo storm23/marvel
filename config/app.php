@@ -169,11 +169,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Stormz23\Marvel\Providers\AppServiceProvider::class,
+        Stormz23\Marvel\Providers\AuthServiceProvider::class,
+        // Stormz23\Marvel\Providers\BroadcastServiceProvider::class,
+        Stormz23\Marvel\Providers\EventServiceProvider::class,
+        Stormz23\Marvel\Providers\RouteServiceProvider::class,
 
     ],
 

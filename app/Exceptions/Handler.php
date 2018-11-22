@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace Stormz23\Marvel\Exceptions;
 
 use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;

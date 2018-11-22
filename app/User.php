@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Stormz23\Marvel;
 
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Contracts\Auth\MustVerifyEmail;
