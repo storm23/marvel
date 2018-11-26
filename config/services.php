@@ -40,4 +40,12 @@ return [
         ],
     ],
 
+    'marvel' => [
+
+        'uri' => 'https://gateway.marvel.com',
+        'apiPublicKey' => 'a0e837feba4b6f5c54933aed4db36b12',
+        'apiPrivateKey' => '2d717a52a9132b25f543b63e8b04424a9a4ed9ac',
+        'timeout' => 10.0
+    ]
+
 ];
